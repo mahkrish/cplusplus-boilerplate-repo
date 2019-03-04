@@ -1,4 +1,4 @@
-# c++boilerplate-repo [![Build Status](https://travis-ci.org/mahkrish/cplusplus-boilerplate-repo.svg?branch=master)](https://travis-ci.org/mahkrish/cplusplus-boilerplate-repo)
+# c++-travis-boilerplate [![Build Status](https://travis-ci.org/mahkrish/cplusplus-boilerplate-repo.svg?branch=master)](https://travis-ci.org/mahkrish/cplusplus-boilerplate-repo)
 C++ Boilerplate Repository that integrates well with Travis CI.
 
 ## How to use?
