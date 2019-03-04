@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ HelloWorld.cpp -Wall -Wextra -pedantic -std=c++14 -o HelloWorld
+./HelloWorld

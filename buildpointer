@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd "C++Course/Practice/Hello";
+sudo chmod u+x buildall
+./buildall
